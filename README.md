@@ -1,1 +1,1 @@
-this is a short tutorial for me on how to work with git and github
+I want to confirm if this is how the git pull request works.
